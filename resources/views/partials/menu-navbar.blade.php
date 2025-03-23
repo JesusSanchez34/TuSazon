@@ -2,7 +2,7 @@
 <div class="navbar">
     <!-- Logo del restaurante (enlace al menú digital) -->
     <a href="{{ route('menu.index') }}" class="navbar-logo">
-        <img src="{{ asset('build/assets/images/logo.jpeg') }}" alt="Logo Marisquería Cocos Locos" class="logo-img">
+        <img src="{{ '  ') }}" alt="Logo Marisquería Cocos Locos" class="logo-img">
     </a>
 
     <h3>Menú Digital - Marisquería Cocos Locos</h3>
